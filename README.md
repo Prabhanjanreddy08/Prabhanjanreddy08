@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chatla Prabhanjan Reddy</h1>
 <h3 align="center">🚀 Passionate Data Analyst & Machine Learning Enthusiast | Turning Data into Insights & AI into Reality</h3>
 
-<img data-v-5e868365 data-test="v-img" src="https://cdn.dribbble.com/userupload/21656162/file/original-b2caa8e….gif" alt width="800" height="600" data-sizes="auto" draggable="false" class="v-img content-block border-radius-8 lazyautosizes ls-is-cached lazyloaded" sizes="697px">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhanjanreddy08&label=Profile%20views&color=0e75b6&style=flat" alt="prabhanjanreddy08" /> </p>
-
 
 - 💬 Ask me about **python, ML**
 
