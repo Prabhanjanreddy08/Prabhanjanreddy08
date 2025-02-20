@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chatla Prabhanjan Reddy</h1>
 <h3 align="center">🚀 Passionate Data Analyst & Machine Learning Enthusiast | Turning Data into Insights & AI into Reality</h3>
 
+<p align="center">
+<img src="https://cdn.dribbble.com/userupload/21656162/file/original-b2caa8e219bb54b29d2a4eff8ccd2a82.gif" alt="Animated Banner" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhanjanreddy08&label=Profile%20views&color=0e75b6&style=flat" alt="prabhanjanreddy08" /> </p>
 
 
@@ -14,7 +18,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 ### Programming Languages
------
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
