@@ -14,4 +14,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhanjanreddy08&show_icons=true&locale=en&layout=compact" alt="prabhanjanreddy08" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhanjanreddy08&" alt="prabhanjanreddy08" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=@prabhanjanreddy08&" alt="prabhanjanreddy08" /></p>
